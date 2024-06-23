@@ -1,0 +1,6 @@
+\begin{Verbatim}[commandchars=\\\{\},codes={\catcode`\$=3\catcode`\^=7\catcode`\_=8\relax}]
+mkdir\PYG{+w}{ }build
+\PYG{n+nb}{cd}\PYG{+w}{ }build
+cmake\PYG{+w}{ }..
+make
+\end{Verbatim}

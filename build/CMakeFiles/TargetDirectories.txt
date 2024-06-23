@@ -1,0 +1,3 @@
+/Users/io/USI/08-Computational-Fabrication/Make-It-Stand/build/CMakeFiles/make_it_stand.dir
+/Users/io/USI/08-Computational-Fabrication/Make-It-Stand/build/CMakeFiles/edit_cache.dir
+/Users/io/USI/08-Computational-Fabrication/Make-It-Stand/build/CMakeFiles/rebuild_cache.dir

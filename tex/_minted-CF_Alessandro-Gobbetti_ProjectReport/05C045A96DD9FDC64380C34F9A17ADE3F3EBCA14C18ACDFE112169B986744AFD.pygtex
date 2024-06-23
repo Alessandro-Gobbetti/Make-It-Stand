@@ -1,0 +1,3 @@
+\begin{Verbatim}[commandchars=\\\{\},codes={\catcode`\$=3\catcode`\^=7\catcode`\_=8\relax}]
+./make\PYGZus{}it\PYGZus{}stand\PYG{+w}{ }\PYGZlt{}input\PYGZus{}file\PYGZgt{}\PYG{+w}{ }\PYGZlt{}output\PYGZus{}file\PYGZgt{}\PYG{+w}{ }\PYG{o}{[}OPTIONS\PYG{o}{]}
+\end{Verbatim}
