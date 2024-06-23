@@ -1,14 +1,14 @@
 # Fdb version 4
-["bibtex CF_Alessandro-Gobbetti_ProjectReport"] 1719177480.17257 "CF_Alessandro-Gobbetti_ProjectReport.aux" "CF_Alessandro-Gobbetti_ProjectReport.bbl" "CF_Alessandro-Gobbetti_ProjectReport" 1719178043.36911 0
+["bibtex CF_Alessandro-Gobbetti_ProjectReport"] 1719177480.17257 "CF_Alessandro-Gobbetti_ProjectReport.aux" "CF_Alessandro-Gobbetti_ProjectReport.bbl" "CF_Alessandro-Gobbetti_ProjectReport" 1719178486.17588 0
   "./bibliography.bib" 1719140983.23867 1722 8e47234bc738fd8c07a45c8c9b55c035 ""
   "/usr/local/texlive/2024/texmf-dist/bibtex/bst/base/plain.bst" 1292289607 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
-  "CF_Alessandro-Gobbetti_ProjectReport.aux" 1719178043.0671 5546 53cfe1f8c4cb6e27a7fb5bf54167ac09 "pdflatex"
+  "CF_Alessandro-Gobbetti_ProjectReport.aux" 1719178485.89064 5546 53cfe1f8c4cb6e27a7fb5bf54167ac09 "pdflatex"
   (generated)
   "CF_Alessandro-Gobbetti_ProjectReport.bbl"
   "CF_Alessandro-Gobbetti_ProjectReport.blg"
   (rewritten before read)
-["pdflatex"] 1719178041.10854 "/Users/io/USI/08-Computational-Fabrication/Make-It-Stand/tex/CF_Alessandro-Gobbetti_ProjectReport.tex" "CF_Alessandro-Gobbetti_ProjectReport.pdf" "CF_Alessandro-Gobbetti_ProjectReport" 1719178043.36927 0
-  "/Users/io/USI/08-Computational-Fabrication/Make-It-Stand/tex/CF_Alessandro-Gobbetti_ProjectReport.tex" 1719178040.85228 12316 bbfd0f452dea04ae579f60b3d789b136 ""
+["pdflatex"] 1719178483.95664 "/Users/io/USI/08-Computational-Fabrication/Make-It-Stand/tex/CF_Alessandro-Gobbetti_ProjectReport.tex" "CF_Alessandro-Gobbetti_ProjectReport.pdf" "CF_Alessandro-Gobbetti_ProjectReport" 1719178486.17604 0
+  "/Users/io/USI/08-Computational-Fabrication/Make-It-Stand/tex/CF_Alessandro-Gobbetti_ProjectReport.tex" 1719178483.69756 12316 bbfd0f452dea04ae579f60b3d789b136 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm" 1136768653 1536 e07581a4bb3136ece9eeb4c3ffab8233 ""
@@ -311,12 +311,12 @@
   "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1711226359.66681 5467645 128b85b7cde5f5edc5cb7f1dd7ff8736 ""
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1711226308 8221424 286e606dfbdd6a4b7f64f4715e4227cb ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
-  "CF_Alessandro-Gobbetti_ProjectReport.aux" 1719178043.0671 5546 53cfe1f8c4cb6e27a7fb5bf54167ac09 "pdflatex"
+  "CF_Alessandro-Gobbetti_ProjectReport.aux" 1719178485.89064 5546 53cfe1f8c4cb6e27a7fb5bf54167ac09 "pdflatex"
   "CF_Alessandro-Gobbetti_ProjectReport.bbl" 1719177480.27724 270 fad0d7bfff1e7294ed75e87a24071196 "bibtex CF_Alessandro-Gobbetti_ProjectReport"
-  "CF_Alessandro-Gobbetti_ProjectReport.brf" 1719178043.06784 94 b100492721e95ced392d632b91f32ef0 "pdflatex"
-  "CF_Alessandro-Gobbetti_ProjectReport.out" 1719178043.06775 1409 2e4ae8ee3ddfbf24b88ccbeab57d9359 "pdflatex"
-  "CF_Alessandro-Gobbetti_ProjectReport.tex" 1719178040.85228 12316 bbfd0f452dea04ae579f60b3d789b136 ""
-  "CF_Alessandro-Gobbetti_ProjectReport.toc" 1719178043.07136 698 e069ad82ea8bb2d4ee1681aef5fe49f1 "pdflatex"
+  "CF_Alessandro-Gobbetti_ProjectReport.brf" 1719178485.89146 94 b100492721e95ced392d632b91f32ef0 "pdflatex"
+  "CF_Alessandro-Gobbetti_ProjectReport.out" 1719178485.89134 1409 2e4ae8ee3ddfbf24b88ccbeab57d9359 "pdflatex"
+  "CF_Alessandro-Gobbetti_ProjectReport.tex" 1719178483.69756 12316 bbfd0f452dea04ae579f60b3d789b136 ""
+  "CF_Alessandro-Gobbetti_ProjectReport.toc" 1719178485.89524 698 e069ad82ea8bb2d4ee1681aef5fe49f1 "pdflatex"
   "_minted-CF_Alessandro-Gobbetti_ProjectReport/05C045A96DD9FDC64380C34F9A17ADE3F3EBCA14C18ACDFE112169B986744AFD.pygtex" 1719164667.04247 272 a038f7c4da2feb0830131ee1da4d6172 ""
   "_minted-CF_Alessandro-Gobbetti_ProjectReport/10AB1B5CE39D1CAE07C24AD8C6E336AAF3EBCA14C18ACDFE112169B986744AFD.pygtex" 1719163370.15501 144 6361dd7e226771f1568ad29df048d579 ""
   "_minted-CF_Alessandro-Gobbetti_ProjectReport/17117DA964058BAECE36B3B92475BF0AF3EBCA14C18ACDFE112169B986744AFD.pygtex" 1719163370.19093 145 21025059f3b5df68fdae6cfc2df8c085 ""

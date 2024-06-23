@@ -40,3 +40,6 @@ The figure shows the results of the different parallelepipeds, with carving and 
 
 ![Banana](tex/fig/banana_carved.png)
 The figure shows the results of balancing a banana shape: in white the carving, in red the base expansion. In light and dark gray the exterior and interior voxels, respectively.
+
+![MrHumpty](tex/fig/mrhumpty.png)
+The figure shows the results of balancing the monster-like figure Mr. Humpty on his head and inclined. Left the balanced figure, right the original one.
